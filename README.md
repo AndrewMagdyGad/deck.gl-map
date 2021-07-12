@@ -1,4 +1,4 @@
-# Interactice Map using deck.gl
+# Interactive Map using deck.gl
 
 ## Getting Started
 
