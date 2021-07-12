@@ -44,6 +44,7 @@ after these steps the server should be up and running at `http://localhost:4000/
 after these steps the client should be up and running at `http://localhost:3000/`
 
 **Important Note**
+
 rename the .env.example file to be .env and fill your values
 
 ```sh
